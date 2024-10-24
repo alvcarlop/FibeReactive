@@ -1,0 +1,118 @@
+/* screen - macbook-pro-14u34-5 */
+
+.macbook-pro-14u34-5 {
+  align-items: flex-start;
+  background-color: var(--cultured-pearl);
+  display: flex;
+  flex-direction: column;
+  height: 3064px;
+  padding: 99px 58px;
+  width: 1512px;
+}
+
+.macbook-pro-14u34-5 .overlap-group3 {
+  height: 570px;
+  position: relative;
+  width: 1382px;
+}
+
+.macbook-pro-14u34-5 .overlap-group {
+  height: 570px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1199px;
+}
+
+.macbook-pro-14u34-5 .image-13 {
+  height: 568px;
+  object-fit: cover;
+  top: 2px;
+  width: 731px;
+}
+
+.macbook-pro-14u34-5 .title {
+  left: 551px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.macbook-pro-14u34-5 .la-obra-fibre-reacti {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 200;
+  left: 797px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 176px;
+  width: 585px;
+}
+
+.macbook-pro-14u34-5 .overlap-group2 {
+  height: 657px;
+  margin-top: 192px;
+  position: relative;
+  width: 1011px;
+}
+
+.macbook-pro-14u34-5 .image-16 {
+  height: 657px;
+  top: 0;
+  width: 487px;
+}
+
+.macbook-pro-14u34-5 .variabilidad {
+  left: 450px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+}
+
+.macbook-pro-14u34-5 .overlap-group4 {
+  height: 731px;
+  margin-top: 200px;
+  position: relative;
+  width: 1329px;
+}
+
+.macbook-pro-14u34-5 .overlap-group1 {
+  height: 731px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 992px;
+}
+
+.macbook-pro-14u34-5 .image-19 {
+  height: 731px;
+  object-fit: cover;
+  top: 0;
+  width: 487px;
+}
+
+.macbook-pro-14u34-5 .modularidad {
+  left: 399px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 75px;
+}
+
+.macbook-pro-14u34-5 .en-el-proyecto-fibre {
+  left: 570px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 284px;
+  width: 759px;
+}
+
+.macbook-pro-14u34-5 .image {
+  left: 0;
+  position: absolute;
+}

@@ -1,0 +1,668 @@
+/* screen - diagrama */
+
+.diagrama {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  height: 1518px;
+  padding: 78px 0;
+  width: 3316px;
+}
+
+.diagrama .flex-row {
+  align-items: flex-end;
+  display: flex;
+  gap: 88px;
+  min-width: 3154px;
+}
+
+.diagrama .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 23.0px;
+  min-height: 762px;
+  width: 448px;
+}
+
+.diagrama .estudio-de-comportam {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 61px;
+  width: 448px;
+}
+
+.diagrama .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  height: 154px;
+  margin-left: 6.5px;
+  margin-top: 24px;
+  min-width: 290px;
+}
+
+.diagrama .line-container {
+  height: 142px;
+  position: relative;
+  width: 48px;
+}
+
+.diagrama .line-48 {
+  height: 142px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.diagrama .line {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 48px;
+}
+
+.diagrama .line-50 {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 94px;
+  width: 48px;
+}
+
+.diagrama .line-51 {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 139px;
+  width: 48px;
+}
+
+.diagrama .flex-col-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  min-height: 129px;
+  width: 235px;
+}
+
+.diagrama .humedad {
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -2px;
+  min-height: 33px;
+  white-space: nowrap;
+}
+
+.diagrama .temperatura {
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-top: 19px;
+  min-height: 28px;
+  white-space: nowrap;
+}
+
+.diagrama .name {
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -4px;
+  margin-left: 4px;
+  margin-top: 18px;
+  min-height: 31px;
+  white-space: nowrap;
+}
+
+.diagrama .principios-clave {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 7px;
+  margin-top: 208px;
+  min-height: 38px;
+  white-space: nowrap;
+  width: 410px;
+}
+
+.diagrama .flex-row-2 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 10px;
+  height: 268px;
+  margin-left: 22.5px;
+  margin-top: 8px;
+  min-width: 390px;
+}
+
+.diagrama .line-container-1 {
+  height: 203px;
+  position: relative;
+  width: 48px;
+}
+
+.diagrama .line-52 {
+  height: 203px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.diagrama .line-54 {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 122px;
+  width: 48px;
+}
+
+.diagrama .line-55 {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 200px;
+  width: 48px;
+}
+
+.diagrama .bioarte-arte-con-or {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 243px;
+  width: 331px;
+}
+
+.diagrama .overlap-group9 {
+  height: 1024px;
+  position: relative;
+  width: 2618px;
+}
+
+.diagrama .overlap-group11 {
+  height: 829px;
+  left: 0;
+  position: absolute;
+  top: 195px;
+  width: 2618px;
+}
+
+.diagrama .overlap-group10 {
+  height: 829px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1867px;
+}
+
+.diagrama .overlap-group-container {
+  height: 829px;
+  left: 473px;
+  position: absolute;
+  top: 0;
+  width: 1129px;
+}
+
+.diagrama .overlap-group5 {
+  height: 829px;
+  left: 64px;
+  position: absolute;
+  top: 0;
+  width: 1003px;
+}
+
+.diagrama .ellipse-24 {
+  background-color: var(--tonys-pink);
+  border-radius: 340.5px;
+  height: 681px;
+  left: 160px;
+  position: absolute;
+  top: 9px;
+  width: 681px;
+}
+
+.diagrama .file-20-1 {
+  height: 609px;
+  left: 295px;
+  object-fit: cover;
+  position: absolute;
+  top: 118px;
+  width: 405px;
+}
+
+.diagrama .ellipse-33 {
+  background-color: var(--black);
+  border-radius: 91px;
+  height: 182px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.diagrama .number-2 {
+  left: 43px;
+  position: absolute;
+  top: 42px;
+}
+
+.diagrama .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--black);
+  border-radius: 91px;
+  display: flex;
+  height: 182px;
+  left: 124px;
+  min-width: 182px;
+  padding: 41px 37px;
+  position: absolute;
+  top: 647px;
+}
+
+.diagrama .number {
+  min-height: 97px;
+  min-width: 108px;
+}
+
+.diagrama .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--tonys-pink);
+  border-radius: 91px;
+  display: flex;
+  height: 182px;
+  left: 694px;
+  min-width: 182px;
+  padding: 41px 36px;
+  position: absolute;
+  top: 647px;
+}
+
+.diagrama .overlap-group4 {
+  align-items: flex-end;
+  background-color: var(--tonys-pink);
+  border-radius: 91px;
+  display: flex;
+  height: 182px;
+  left: 819px;
+  min-width: 182px;
+  padding: 42px 37px;
+  position: absolute;
+  top: 3px;
+}
+
+.diagrama .by-donna-franklin {
+  color: var(--eerie-black);
+  font-family: var(--font-family-inter);
+  font-size: 45px;
+  font-weight: 500;
+  left: 307px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.diagrama .overlap-group {
+  align-items: flex-start;
+  background-color: var(--tonys-pink);
+  border-radius: 91px;
+  display: flex;
+  height: 182px;
+  left: 0;
+  min-width: 182px;
+  padding: 42px 38px;
+  position: absolute;
+  top: 359px;
+}
+
+.diagrama .number-1 {
+  min-height: 97px;
+}
+
+.diagrama .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 91px;
+  display: flex;
+  height: 182px;
+  left: 947px;
+  min-width: 182px;
+  padding: 42px 37px;
+  position: absolute;
+  top: 359px;
+}
+
+.diagrama .investigacin-cient {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 44px;
+  width: 488px;
+}
+
+.diagrama .colaboracin-interdi {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 157px;
+  width: 526px;
+}
+
+.diagrama .span0 {
+  color: var(--black);
+  font-weight: 600;
+}
+
+.diagrama .exhibicin-y-presentacin {
+  left: 1577px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 47px;
+  width: 290px;
+}
+
+.diagrama .flex-col-2 {
+  align-items: flex-start;
+  left: 0;
+  min-height: 479px;
+  position: absolute;
+  top: 254px;
+  width: 456px;
+}
+
+.diagrama .seleccin-del-hongo {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 61px;
+  width: 408px;
+}
+
+.diagrama .conceptualizacin-y-diseo-del-proyecto {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 45px;
+  margin-top: 95px;
+  min-height: 82px;
+  width: 437px;
+}
+
+.diagrama .idea-principal-pren {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 19px;
+  margin-top: 48px;
+  min-height: 72px;
+  width: 365px;
+}
+
+.diagrama .objetivo-explorar-b {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 8.0px;
+  margin-top: 27px;
+  min-height: 94px;
+  width: 410px;
+}
+
+.diagrama .flex-col-3 {
+  align-items: center;
+  gap: 171px;
+  left: 1644px;
+  min-height: 513px;
+  position: absolute;
+  top: 160px;
+  width: 974px;
+}
+
+.diagrama .interaccin-con-el-p {
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 215.0px;
+  min-height: 76px;
+  width: 525px;
+}
+
+.diagrama .flex-row-3 {
+  align-items: flex-end;
+  display: flex;
+  gap: 30px;
+  height: 266px;
+  min-width: 974px;
+}
+
+.diagrama .crecimiento-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 53px;
+  min-height: 266px;
+  width: 446px;
+}
+
+.diagrama .programacin-del-crecimiento-biolgico {
+  letter-spacing: 0;
+  line-height: 45px;
+  min-height: 107px;
+  width: 446px;
+}
+
+.diagrama .crecimiento-controla {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 106px;
+  width: 445px;
+}
+
+.diagrama .proceso-abductivo-f {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 106px;
+  width: 498px;
+}
+
+.diagrama .acin-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  left: 1976px;
+  min-height: 168px;
+  position: absolute;
+  top: 155px;
+  width: 642px;
+}
+
+.diagrama .instalacin-sistema {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 64px;
+  width: 492px;
+}
+
+.diagrama .visualizacin-en-tie {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 72px;
+  width: 642px;
+}
+
+.diagrama .proceso-de-creacin-fibre-reactive {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  left: 640px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.diagrama .flex-row-4 {
+  align-items: center;
+  display: flex;
+  gap: 47px;
+  height: 261px;
+  margin-left: 352.0px;
+  min-width: 2288px;
+}
+
+.diagrama .flex-col-4 {
+  align-items: flex-start;
+  gap: 6px;
+  min-height: 261px;
+  width: 1544px;
+}
+
+.diagrama .flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 116px;
+  margin-left: 8px;
+  min-width: 1464px;
+}
+
+.diagrama .sistema-modular-inf {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 102px;
+  width: 375px;
+}
+
+.diagrama .integracin-tecnolg {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 45px;
+  margin-left: 56px;
+  min-height: 99px;
+  width: 480px;
+}
+
+.diagrama .produccin-y-montaje {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: 19.0px;
+  margin-left: 106px;
+  min-height: 63px;
+  width: 447px;
+}
+
+.diagrama .flex-row-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 139px;
+  min-width: 1544px;
+}
+
+.diagrama .variabilidad-biolgi {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 20.0px;
+  min-height: 85px;
+  width: 353px;
+}
+
+.diagrama .monitorizacin-ambie {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 83px;
+  min-height: 102px;
+  width: 441px;
+}
+
+.diagrama .crecimiento-en-la-pr {
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 144px;
+  min-height: 106px;
+  width: 523px;
+}
+
+.diagrama .overlap-group10-1 {
+  height: 218px;
+  margin-bottom: 9.0px;
+  position: relative;
+  width: 697px;
+}
+
+.diagrama .overlap-group8 {
+  height: 160px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 445px;
+}
+
+.diagrama .line-48-1 {
+  height: 97px;
+  left: 12px;
+  position: absolute;
+  top: 64px;
+  width: 3px;
+}
+
+.diagrama .line-49 {
+  height: 3px;
+  left: 12px;
+  position: absolute;
+  top: 106px;
+  width: 48px;
+}
+
+.diagrama .line-50-1 {
+  height: 3px;
+  left: 12px;
+  position: absolute;
+  top: 158px;
+  width: 48px;
+}
+
+.diagrama .confeccin-de-la-prenda {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  width: 445px;
+}
+
+.diagrama .tela-porosa-o-biodegradable {
+  left: 70px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 83px;
+  white-space: nowrap;
+  width: 627px;
+}
+
+.diagrama .aplicacin-del-hongo-en-la-superficie {
+  left: 70px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 140px;
+  width: 579px;
+}
+
+.diagrama .flex-col-5 {
+  display: flex;
+  flex-direction: column;
+}

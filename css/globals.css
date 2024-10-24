@@ -1,0 +1,83 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:400,200,600,700italic,500,700");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/6718352a18e94d70c54bdf11.6718352a18e94d70c54bdf14.U6p9pPp.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.number-3 {
+  min-height: 97px;
+  min-width: 110px;
+}
+
+.span0-1 {
+  color: var(--eerie-black);
+}
+
+.innovacin-en-la-interseccin {
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 378px;
+}
+
+.fibre-reactive-de-do {
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 133px;
+  width: 1120px;
+}
+
+.el-proceso-detrs-de {
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 124px;
+  width: 1102px;
+}
+
+.interdisciplinarieda {
+  color: var(--flamingo);
+  font-family: var(--font-family-inter);
+  font-size: 47px;
+  font-weight: 700;
+  left: 660px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 579px;
+}
+
+.number-4 {
+  letter-spacing: 0;
+  line-height: normal;
+}

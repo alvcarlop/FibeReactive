@@ -1,0 +1,50 @@
+/* screen - macbook-pro-14u34-3 */
+
+.macbook-pro-14u34-3 {
+  align-items: flex-start;
+  background-color: var(--cultured-pearl);
+  display: flex;
+  height: 1296px;
+  padding: 106px 47px;
+  width: 1512px;
+}
+
+.macbook-pro-14u34-3 .overlap-group1 {
+  height: 861px;
+  position: relative;
+  width: 1397px;
+}
+
+.macbook-pro-14u34-3 .overlap-group {
+  height: 508px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1291px;
+}
+
+.macbook-pro-14u34-3 .image-11 {
+  height: 508px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 903px;
+}
+
+.macbook-pro-14u34-3 .name {
+  left: 588px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 53px;
+}
+
+.macbook-pro-14u34-3 .artista-y-diseadora {
+  left: 967px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 223px;
+  width: 430px;
+}
