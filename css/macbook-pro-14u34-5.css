@@ -59,19 +59,17 @@
   width: 1011px;
 }
 
+
+.macbook-pro-14u34-5 .tituloo {
+  left: 500px;
+}
+
 .macbook-pro-14u34-5 .image-16 {
   height: 657px;
   top: 0;
   width: 487px;
 }
 
-.macbook-pro-14u34-5 .variabilidad {
-  left: 450px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 23px;
-}
 
 .macbook-pro-14u34-5 .overlap-group4 {
   height: 731px;
@@ -116,3 +114,26 @@
   left: 0;
   position: absolute;
 }
+
+.macbook-pro-14u34-5 .la-obra-fibre-reacti {
+  position: relative;
+  top: 280px;
+}
+
+.Variabilidad {
+    max-width: 759px; 
+    margin: 40px auto; 
+    font-size: 24px; 
+    position: absolute; 
+    top: 1000px;
+    left: 625px; 
+
+.tituloo {
+    position: absolute; 
+    top: 20px; 
+    left: 0; 
+    z-index: 1; 
+}
+
+
+
