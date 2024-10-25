@@ -12,7 +12,8 @@
 }
 
 .macbook-pro-14u34-11 .title {
-  align-self: center;
+  left: 790px;
+  position: absolute;
   letter-spacing: 0;
   line-height: normal;
   min-height: 116px;
@@ -62,6 +63,8 @@
   margin-right: 26px;
   min-height: 435px;
   width: 550px;
+  bottom: 150px;
+  position: relative;
 }
 
 .macbook-pro-14u34-11 .flex-col-1 {
@@ -80,12 +83,16 @@
   margin-right: 24.0px;
   min-height: 319px;
   width: 652px;
+  position: relative;
+  top: 100px;
 }
 
 .macbook-pro-14u34-11 .image-9 {
-  height: 536px;
+  height: 650px;
   object-fit: cover;
   width: 714px;
+  position: relative;
+  bottom: 5px;
 }
 
 .macbook-pro-14u34-11 .flex {
